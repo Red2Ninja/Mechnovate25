@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Mechnovate25/static/css/main.6c125741.css",
-    "main.js": "/Mechnovate25/static/js/main.0de8f976.js",
+    "main.js": "/Mechnovate25/static/js/main.3334c0d0.js",
     "static/media/bg.jpg": "/Mechnovate25/static/media/bg.a5b36ffac0b54c255c03.jpg",
     "index.html": "/Mechnovate25/index.html",
     "main.6c125741.css.map": "/Mechnovate25/static/css/main.6c125741.css.map",
-    "main.0de8f976.js.map": "/Mechnovate25/static/js/main.0de8f976.js.map"
+    "main.3334c0d0.js.map": "/Mechnovate25/static/js/main.3334c0d0.js.map"
   },
   "entrypoints": [
     "static/css/main.6c125741.css",
-    "static/js/main.0de8f976.js"
+    "static/js/main.3334c0d0.js"
   ]
 }
